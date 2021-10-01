@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\HP\source\repos\ZavrsniRad\DataAccess\obj\Release\netcoreapp3.1\DataAccess.genruntimeconfig.cache
